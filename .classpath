@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/bin/twitter4j-4.0.4/twitter4j-appengine/twitter4j-appengine-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/bin/twitter4j-4.0.4/lib/twitter4j-async-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/bin/twitter4j-4.0.4/lib/twitter4j-core-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/bin/twitter4j-4.0.4/lib/twitter4j-examples-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/bin/twitter4j-4.0.4/lib/twitter4j-media-support-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/bin/twitter4j-4.0.4/lib/twitter4j-stream-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/cassandra-driver-core-3.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/Dependencies/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/Dependencies/HdrHistogram-2.1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/Dependencies/jnr-ffi-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/Dependencies/jnr-posix-3.0.44.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/Dependencies/lz4-java-1.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/Dependencies/metrics-core-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/Dependencies/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/Dependencies/snappy-java-1.1.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/Dependencies/Optional/assertj-core-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/Dependencies/Optional/byteman-bmunit-3.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/Dependencies/Optional/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/Dependencies/Optional/java-client-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/Dependencies/Optional/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/Dependencies/Optional/mockito-all-1.10.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/Dependencies/Optional/slf4j-log4j12-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/Dependencies/Optional/testng-6.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/netty-tcnative-2.0.12.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/netty-handler-4.0.39.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
